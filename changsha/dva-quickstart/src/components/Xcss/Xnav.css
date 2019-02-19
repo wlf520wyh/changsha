@@ -1,0 +1,24 @@
+.Xnav_ul{
+    width: 867px;
+    height: 80px;
+    background: #ccc;
+    position: absolute;
+    top:588px;
+    left:19%;
+    z-index: 999;
+    opacity: 0.8;
+}
+.Xnav_ul img{
+    width: 40px;
+}
+.Xnav_ul .li_1{
+    margin-left:20px;
+}
+.Xnav_ul li{
+    float: left;
+    padding: 10px 40px 0 50px;
+}
+.Xnav_ul li p{
+    font-size: 12px;
+    margin:4px 0 0 -4px;
+}
