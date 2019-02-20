@@ -1,0 +1,24 @@
+.L_header{
+    width: 100%;
+    height: 100px;
+    background: #D64747;
+}
+.L_header .L_header_con{
+    width: 1300px;
+    height: 100px;
+    margin: 0 auto;
+}
+.L_header .L_header_con .Llogo{
+    margin-top:25px;
+}
+.L_header .L_header_con .L_header_r{
+    width: 310px;
+    height: 100px;
+    float: right;
+    padding: 25px 0 0 0;
+}
+.L_header .L_header_con .L_header_r span{
+    font-size: 14px;
+    color:#fff;
+    font-weight: 900;
+}

@@ -1,0 +1,106 @@
+.Smain_box{
+    width: 100%;
+    height: 795px;
+}
+.Smain_box .Smain_box_main{
+    width: 1000px;
+    height: 795px;
+    margin:0 auto;
+    /* position: relative; */
+}
+.Smain_box .Smain_box_main .Smain_box_t{
+    height: 37px;
+    width: 1000px;
+    background: #F0EDE1;
+    border-bottom:1px solid #ccc;
+}
+.Smain_box .Smain_box_main .Smain_box_t .Smain_box_tl{
+    height: 37px;
+    width: 98px;
+    background: #fff;
+    color:#D64747;
+    line-height: 37px;
+    text-align: center;
+    border-right:1px solid #ccc;
+}
+.Smain_box .Smain_box_main span{
+    font-size: 12px;
+}
+.Smain_box .Smain_box_main .Smain_box_biao{
+    width: 900px;
+    height: 120px;
+    margin:10px 0 0 22px;
+}
+.Smain_box .Smain_box_main .Smain_box_biao ul{
+    float: left;
+}
+.Smain_box .Smain_box_main .Smain_box_biao .Smain_box_biao_u1 div{
+   width: 130px;
+   height: 40px;
+   font-size: 12px;
+   text-align: center;
+   line-height: 40px;
+   background: #F3F3F3;
+   border:1px solid #ccc;
+   
+   /* float: left; */
+}
+.Smain_box .Smain_box_main .Smain_box_biao .Smain_box_biao_u2 div{
+    width: 385px;
+    height: 40px;
+    font-size: 12px;
+    /* line-height: 40px; */
+    background: #fff;
+    border:1px solid #ccc;
+    padding: 0 0 0 20px;
+    /* float: left; */
+ }
+.Smain_box .Smain_box_main .Smain_box_biao .Smain_box_biao_u2 div select{
+    height: 24px;
+    width: 75px;
+    color:#555;
+    border-radius: 5px;
+}
+.Smain_box .Smain_box_main .Smain_box_biao .Smain_box_biao_u2 .Smain_box_biao_in1{
+    width: 200px;
+    height: 24px;
+    border:1px solid #ccc;
+    margin-top:8px;
+    border-radius: 3px;
+    padding:0 0 0 10px;
+}
+.Smain_box .Smain_box_main .xieyi{
+    margin:0 0 0 10px;
+}
+.Smain_box .Smain_box_main .Ssigin{
+    position: relative;
+}
+.Smain_box .Smain_box_main .button2{
+    width: 100px;
+    height: 40px;
+    background: #D64747;
+    font-size: 12px;
+    position: absolute;
+    top: 20px;
+    left: 550px;
+    color:#fff;
+    text-align: center;
+    line-height: 40px;
+}
+.Smain_box .Smain_box_main .button1{
+    width: 200px;
+    height: 40px;
+    background: #D64747;
+    font-size: 12px;
+    position: absolute;
+    top: 20px;
+    left: 290px;
+    color:#fff;
+    line-height: 40px;
+    cursor: pointer;
+}
+.Smain_box .Smain_box_main .Ssigin img{
+    position: absolute;
+    top: 80px;
+    left: -140px;
+}

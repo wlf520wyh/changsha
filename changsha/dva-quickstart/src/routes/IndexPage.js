@@ -5,7 +5,7 @@ import Xbanner from '../components/Xbanner.js';
 import Xnav from '../components/Xnav.js';
 import Xmoney from '../components/Xmoney.js';
 import Xgongneng from '../components/Xgongneng.js';
-import Xfooter from '../components/footer.js';
+import Xfooter from '../components/Xfooter.js';
 
 
 function IndexPage() {

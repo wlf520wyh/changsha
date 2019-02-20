@@ -23,6 +23,9 @@
     height: 170px;
     float: left;
 }
+.box1 .box1_c ul{
+    margin-top:-12px;
+}
 .box1 .box1_c ul li{
     font-size: 14px;
     color:#fff;
@@ -45,10 +48,4 @@
 }
 li,img,span{
     cursor: pointer;
-}
-input{
-    border: 1px solid #ccc;
-    border-left:none;
-    padding: 0 0 0 5px;
-    border-radius: 0 15px 15px 0;
 }

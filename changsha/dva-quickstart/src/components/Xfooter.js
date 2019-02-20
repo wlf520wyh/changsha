@@ -24,8 +24,8 @@ function footer() {
 					</div>
 					<div className={footer_box.box1_c}>
 						<ul>
-							<li style={{fontSize:"18px"}}>投诉管理</li>
-							<li>电话渠道：0731-96511（转3）0731-85185750</li>
+							<li style={{fontSize:"18px",marginTop:"12px"}}>投诉管理</li><br /><br />
+							<li style={{position:"relative",left:"-71px"}}>电话渠道：0731-96511（转3）0731-85185750</li>
 							<li>网络渠道：kfzx@cscb.cn 长沙银行投诉处理流程</li>
 							<li>信函渠道：长沙市岳麓区滨江路长沙银行大厦客户服务部消费者</li>
 							<li>权益保护及投诉管理中心</li>

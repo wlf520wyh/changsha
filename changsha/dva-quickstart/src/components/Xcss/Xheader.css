@@ -52,3 +52,11 @@
 li{
     float: left;
 }
+.qingshuru{
+    width: 160px;
+    height: 29px;
+    border: 1px solid #ccc;
+    border-left:none;
+    padding: 0 0 0 5px;
+    border-radius: 0 15px 15px 0;
+}

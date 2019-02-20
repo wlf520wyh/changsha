@@ -15,7 +15,7 @@ function Xheader() {
             <div className="con">
                 <div className={Xheadercss.box}>
                     <div className={Xheadercss.logo}>
-                        <img src={logo} alt=""/>
+                        <a href="http://10.3.143.101:8000/#/"><img src={logo} alt=""/></a>
                     </div>
                     <div className={Xheadercss.yewu}>
                         <ul className={Xheadercss.ul1}>
@@ -69,9 +69,9 @@ function Xheader() {
                     </div>
                     <div className={Xheadercss.sousuo}>
                         <img src={sousuo} alt=""/>
-                        <input style={{border:"1px soild #D4D4D4",fontSize:"18px",width:"128px"}} type="txt" placeholder="请输入" />
-                        <img src={denglu} alt=""/>
-                        <span>登录</span>
+                        <input className={Xheadercss.qingshuru} placeholder="请输入" />
+                        <img style={{margin:"0 0 0 28px"}} src={denglu} alt=""/>
+                        <a style={{color:"red",fontSize:"18px"}} href="http://10.3.143.101:8000/#/Login">登录</a>
                     </div>
                 </div>
             </div>
